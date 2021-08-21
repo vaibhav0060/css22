@@ -1,0 +1,189 @@
+body{
+    border-style: solid; border-color: green;
+    background-color: greenyellow;
+}
+h3{
+   text-align: center;
+   color:rgb(5, 5, 36);
+   font-weight: 500;
+   font-size: xx-large;
+}
+
+ .left { 
+     
+        color: white;
+        font-size: large;
+        font-family: 'STIX Two Text', serif;
+        font-style: italic;
+        margin-top: 10px;
+        margin-left: 5px;
+        width: 20%;
+        border: 5px solid  red;
+        border-radius: 20px;
+        padding: 25px;
+        background-color: black;
+ }
+ .mid {
+    color: white;
+    font-size: large;
+    font-family: 'STIX Two Text', serif;
+    font-style: italic;
+    margin-top: -95px;
+    margin-left: 560px;
+    width: 20%;
+    border: 5px solid  red;
+    border-radius: 35px;
+    padding: 15px ;
+    padding-bottom: 5px;
+    background-color: black;
+ }
+ .right {
+    color: white;
+    font-size: large;
+    font-family: 'STIX Two Text', serif;
+    font-style: italic;
+    margin-top: -55px;
+    margin-left: 77%;
+   margin-right: 10%;
+    width: 17%;
+    border: 5px solid  red;
+    border-radius: 20px;
+    padding: 22px;
+    background-color: black;
+
+ }
+ .detail {
+    background-color: rgb(226, 115, 171);
+    color: rgb(114, 4, 4);
+    font-size: large;
+    font-family: 'STIX Two Text', serif;
+    font-style: normal;
+    margin-top: 10px;
+    margin-left: 535px;
+    width: 20%;
+    border: 5px dashed  red;
+    border-radius: 00px;
+    padding: 20px;
+
+ }
+  .poster {
+     color: black;
+     font-size: large;
+     background-color:mediumspringgreen;
+border: 5px;
+height: 320px;
+width: 330px; 
+     border-radius: 50%;
+     border: 5px silver solid;
+     margin-top: -300px;
+     margin-left: 20px;
+     padding: 50px;
+    
+  
+ }
+ .menu {
+    color: white;
+    font-size: large;
+    font-family: 'STIX Two Text', serif;
+    font-style: italic;
+    margin-top: 15px;
+    margin-left: 40%;
+    width: 20%;
+    border: 5px solid  red;
+    border-radius: 35px;
+    padding: 15px 20px ;
+    padding-bottom: 5px;
+    background-color: black;
+ }
+ 
+ .parent{
+   display:flex;
+   background-color: greenyellow;
+  
+   justify-content:space-evenly;
+   text-transform: capitalize;
+   font-size: large;
+color: blue;   
+}
+.container {
+   margin: 20px;
+   height: 350px;
+   width: 300px;
+}
+.spacing {
+   padding-left: 20px;
+}
+   .container1{
+       background-color: aqua;
+       border: 5px solid black;
+       border-radius: 25px;
+
+
+   }
+   .container2{
+       background-color: aqua;
+       
+       border: 5px solid black;
+       border-radius: 25px;
+
+
+   }
+   .container3{
+       background-color: aqua;
+  
+  
+   border: 5px solid black;
+   border-radius: 25px;
+
+
+}
+
+   .container4
+   {
+       background-color:aqua;
+      ;ckground-color: aqua;
+       border: 5px solid black;
+       border-radius: 25px;
+
+
+   }
+   .container5{
+       background-color: aqua;
+ 
+  
+   border: 5px solid black;
+   border-radius: 25px;
+
+
+}
+   .container6{
+       background-color: aqua;
+      
+       border: 5px solid black;
+       border-radius: 25px;
+
+   }
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+git init
+git add .
+git commit -m "Your comments"
+git remote add origin "git repository path"
+git push/git push origin main */
